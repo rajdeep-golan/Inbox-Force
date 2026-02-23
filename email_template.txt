@@ -1,0 +1,21 @@
+Hi {name},
+
+I know your inbox is a battlefield and referrals are the baseline, not the exception. I’m reaching out because I’m an outstanding engineer who simply needs an interview to prove I can move the needle at Meta.
+
+Why I’m high-signal for your team:
+
+- Experience: 5 years of full-stack and backend (Java, Swift, Python) at Amazon (FireTV) and Nomura.
+
+- Specialization: MSCS from CityU Seattle (4.0 GPA) focused on Generative AI and Agentic Workflows.
+
+- Scale: I’ve built systems handling 5M+ users with sub-20ms latency.
+
+I’m currently in Seattle but ready to relocate. My resume is attached, and you can find my portfolio here: https://rajdeep-golan.github.io/
+
+I’d love 10 minutes to discuss how my background in distributed systems and AI aligns with Meta’s 2026 roadmap.
+
+Regards,
+
+Rajdeep Singh Golan
+https://linkedin.com/in/rsgolan
+
